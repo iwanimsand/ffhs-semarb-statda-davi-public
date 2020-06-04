@@ -1,1 +1,8 @@
-jupyter labextension install @jupyterlab/toc
+jupyter labextension install \
+    @jupyterlab/toc \
+    @jupyter-widgets/jupyterlab-manager \
+    jupyter-matplotlib \
+    jupyterlab-plotly@4.7.1 \
+    plotlywidget@4.7.1
+
+jupyter nbextension enable --py widgetsnbextension
