@@ -4,7 +4,7 @@ Jupyter Notebooks zu den Semesterarbeiten in Statistische Datenanalyse und Daten
 
 ---
 
-Klicken Sie hier [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/iwanimsand/ffhs-semarb-statda-davi-public/master?urlpath=lab%2Ftree%2Fnotebooks), um ins Jupyter Lab zu gelangen und die Notebooks auszuführen. 
+Klicken Sie hier [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/iwanimsand/ffhs-semarb-statda-davi-public/master?urlpath=lab/tree/notebooks), um ins Jupyter Lab zu gelangen und die Notebooks auszuführen. 
 
 _(Es kann einen Moment dauern, bis der Container gestartet wurde!)_
 
