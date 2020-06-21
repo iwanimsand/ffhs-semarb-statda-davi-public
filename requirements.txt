@@ -11,5 +11,6 @@ sidetable==0.3.0
 scikit-learn==0.23.1
 tilemapbase==0.4.6
 pyproj==1.9.6
+pmdarima==1.6.1
 
 jupyterlab==2.1.4
