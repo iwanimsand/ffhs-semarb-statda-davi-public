@@ -13,4 +13,4 @@ tilemapbase==0.4.6
 pyproj==1.9.6
 pmdarima==1.6.1
 
-jupyterlab==2.1.4
+jupyterlab==2.2.10
